@@ -33,6 +33,17 @@ migrate_working_dir/
 /build/
 /coverage/
 
+# Firebase configuration files
+lib/firebase_options.dart
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# Firebase CLI and debug logs
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+
 # Symbolication related
 app.*.symbols
 
