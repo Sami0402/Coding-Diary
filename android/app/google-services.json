@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "830320404723",
+    "project_id": "coding-diary-90a77",
+    "storage_bucket": "coding-diary-90a77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830320404723:android:553fae5cec7794d4276f86",
+        "android_client_info": {
+          "package_name": "com.example.coding_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830320404723-i2gknase1e3dqnfr0h4u1q0q648mko42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coding_diary",
+            "certificate_hash": "a7073c31d69b87a01459d295761e92109deb7567"
+          }
+        },
+        {
+          "client_id": "830320404723-q5366fsq5un3319u8s0d46opecgi434b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YRagAPdiSLlumLI2cXtY-bfp5IBtEMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830320404723-q5366fsq5un3319u8s0d46opecgi434b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830320404723-063lu00f9kfl8ijpc1smqt7iof3l68ks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.codingDiary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
